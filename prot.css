@@ -62,19 +62,20 @@ nav ul {
   }
   .pro{
     position: absolute;
-    width: 538px;
-    height: 73px;
+    width: 50rem;
+    height: 5rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    font-weight: 800;
+    font-style:italic;
+    font-weight: 900;
     font-size: 32px;
     line-height: 16px;
     color: #fcf3f3;
+    word-spacing: 1.2rem;
     left:6rem;
     top:15rem;
   }
   .hom{
     background-color: black;
     color: white;
-   
   }
+  
