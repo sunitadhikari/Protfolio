@@ -8,7 +8,7 @@
     position: relative;
     width: 100%;
     height: 80rem;
-    background-image: url("lak.jpg");
+    /* background-image: url("lak.jpg"); */
     border-radius: 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,9 +38,8 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    /* font-weight: 500; */
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   nav li {
     margin: 0 0px;
@@ -48,7 +47,6 @@ nav ul {
     font-weight: 700;
     font-size:x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
   }
   nav a {
     color: rgb(249, 244, 244);
@@ -56,23 +54,19 @@ nav ul {
     font-size: 26px;
     padding: 0;
     margin:0;
-    /* border: 1px; */
   }
   nav a:hover {
     color: rgb(243, 243, 245);
     height:2rem;
     width: 5rem;
     font-size: 3rem;
-    /* border-radius: 3rem; */
     background-color:rgb(60, 203, 228);
   }
   .pro{
     position: absolute;
     width: 70rem;
     height: 50rem;
-    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Arial, sans-serif;
-    /* font-style:italic; */
     font-weight: 900;
     font-size: 6.5rem;
     line-height:8rem;
@@ -81,10 +75,6 @@ nav ul {
     left:5rem;
     top:8rem;
   }
-  /* .hom{
-    background-color: black;
-    color: white; */
-  /* } */
   .newp{
     position: relative;
     width: 100%;
@@ -108,14 +98,12 @@ nav ul {
     word-spacing: 1rem;
     align-items: center;
     text-align: center;
-    /* left:5rem; */
     top:6rem;
   }
   .parr{
     position: relative;
     width: 100%;
     height: 50rem;
-    /* font-family: Arial, sans-serif; */
     font-weight: 900;
     font-style: italic ;
     font-size: 7rem;
