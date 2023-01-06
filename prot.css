@@ -161,8 +161,22 @@ nav ul {
     text-align: center;
     top:6rem;
   }
+  .flex{
+    display: flex;
+    /* margin:2rem; */
+    /* padding:10rem; */
+  }
   .box{
-    border:2px solid black;
+    border:0.1rem solid black;
+    padding:2rem;
+    margin:0.1rem ;
+    /* padding:10rem; */
+    /* border-radius: 2rem; */
+  }
+  .boxi{
+    height:20rem;
+    width:13rem;
+    padding:10rem;
   }
   
   
