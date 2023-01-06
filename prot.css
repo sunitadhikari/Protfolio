@@ -155,10 +155,24 @@ nav ul {
     font-style: italic ;
     font-size: 8rem;
     line-height:10rem;
-    color: black;
+    color: rgb(248, 242, 242);
     word-spacing: 1rem;
     align-items: center;
     text-align: center;
     top:6rem;
+  }
+  .flex-container {
+    display: flex;
+    position: absolute;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: #333;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
   }
   
