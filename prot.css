@@ -155,7 +155,7 @@ nav ul {
     font-style: italic ;
     font-size: 8rem;
     line-height:10rem;
-    color: rgb(248, 242, 242);
+    color: rgb(15, 14, 14);
     word-spacing: 1rem;
     align-items: center;
     text-align: center;
@@ -163,20 +163,16 @@ nav ul {
   }
   .flex{
     display: flex;
-    /* margin:2rem; */
-    /* padding:10rem; */
+    padding:10rem;
   }
   .box{
     border:0.1rem solid black;
     padding:2rem;
-    margin:0.1rem ;
-    /* padding:10rem; */
-    /* border-radius: 2rem; */
+    margin:9rem ;
   }
   .boxi{
-    height:20rem;
-    width:13rem;
-    padding:10rem;
+    height:30rem;
+    width:40rem;
   }
   
   
