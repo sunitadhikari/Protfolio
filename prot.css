@@ -127,4 +127,11 @@ nav ul {
     top:25rem;
     left:25rem;
   }
+  .circle{
+    position: absolute;
+      border-radius: 50%;
+      overflow: hidden;
+      height: 50rem;
+      width:fit-content;
+  }
   
