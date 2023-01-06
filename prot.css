@@ -98,6 +98,15 @@ nav ul {
     text-align: center;
     top:6rem;
   }
+  .circle{
+    position: absolute;
+      border-radius: 50%;
+      overflow: hidden;
+      height: 30rem;
+      width:fit-content;
+      left: 87rem;
+      top:5rem;
+  }
   .parr{
     position: relative;
     width: 100%;
@@ -126,12 +135,5 @@ nav ul {
     text-align: center;
     top:25rem;
     left:25rem;
-  }
-  .circle{
-    position: absolute;
-      border-radius: 50%;
-      overflow: hidden;
-      height: 50rem;
-      width:fit-content;
   }
   
