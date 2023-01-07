@@ -205,18 +205,17 @@ nav ul {
 .work-form{
   position: absolute;
   width: 100%;
-  height: 58px;
-  /* left: 75px; */
-  top: 23px;
+  height: 3.5rem;
+  top: 1.5rem;
   font-family: 'Vollkorn';
   font-style: normal;
   font-weight: 600;
-  font-size: 39px;
-  line-height: 58px;
+  font-size: 2.45rem;
+  line-height: 3.6rem;
   text-align: center;
   color: #0e0f10;
 }
-.work-formm{
+/* .work-formm{
   position: absolute;
   width: 600px;
   height: 70px;
@@ -229,18 +228,19 @@ nav ul {
   line-height: 29px;
   text-align: center;
   color: #050505;
-}
+ }
+  */
 .workfp{
   position: absolute;
   width: 100%;
-  height: 27px;
-  left: 30px;
-  top: 160px;
+  height: 1.6rem;
+  left: 1.8rem;
+  top: 10rem;
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 400;
-  font-size: 17px;
-  line-height: 27px;
+  font-size: 1.1rem;
+  line-height: 2rem;
   color: #0c0b0b;
 }
 .fnamee{   
