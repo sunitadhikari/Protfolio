@@ -175,7 +175,7 @@ nav ul {
   .mainform{
     position: relative;
     width: 100%;
-    height: 55rem;
+    height: 60rem;
     background: linear-gradient( rgb(141, 94, 94), rgb(87, 69, 222));
     background-origin: border-box;
   }
@@ -193,3 +193,183 @@ nav ul {
   text-align: center;
   top:3rem;
 } 
+.formm{
+  position: relative;
+  width: 50rem;
+  height: 75rem;
+  left: 30rem;
+  top: 17rem;
+  background-color: #568eb9;
+  align-items: center;
+}
+.work-form{
+  position: absolute;
+  width: 500px;
+  height: 58px;
+  left: 75px;
+  top: 23px;
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 39px;
+  line-height: 58px;
+  text-align: center;
+  color: #0e0f10;
+}
+.work-formm{
+  position: absolute;
+  width: 600px;
+  height: 70px;
+  left: 30px;
+  top: 90px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 50;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+  color: #050505;
+}
+.workfp{
+  position: absolute;
+  width: 100%;
+  height: 27px;
+  left: 30px;
+  top: 160px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  color: #0c0b0b;
+}
+.fnamee{   
+  position: absolute;
+  width: 100%S;
+  height: 29px;
+  left: 30px;
+  top: 230px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 25px;
+  line-height: 29px;
+  color: #080808;
+  }
+#fname{
+  position: absolute;
+  box-sizing: border-box;
+  width: 600px;
+  height: 45px;
+  left: 30px;
+  top: 260px;
+  border: 1px solid #0e0d0d;
+  border-radius: 3px;
+}
+.femaill{
+  position: absolute;
+  width: 100%;
+  height: 29px;
+  left: 30px;
+  top: 320px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 25px;
+  line-height: 29px;
+  color: #080808;
+  } 
+#emaiil{
+      position: absolute;
+      box-sizing: border-box;
+      width: 600px;
+      height: 45px;
+      left: 30px;
+      top: 350px;
+      border: 1px solid #0e0d0d;
+      border-radius: 3px;
+}
+.fphonee{
+  position: absolute;
+  width: 100%;
+  height: 29px;
+  left: 30px;
+  top: 410px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 25px;
+  line-height: 29px;
+  color: #080808;
+}
+#phonee{
+  position: absolute;
+  box-sizing: border-box;
+  width: 600px;
+  height: 45px;
+  left: 30px;
+  top: 440px;
+  border: 1px solid #0e0d0d;
+  border-radius: 3px;
+}
+#myFile{
+  position: absolute;
+  box-sizing: border-box;
+  width: 600px;
+  height: 200px;
+  left: 30px;
+  top: 530px;
+  border: 1px solid #0e0d0d;
+  border-radius: 3px;
+  background-color: white;
+  text-align: center;
+}
+.maxx{
+  position: absolute;
+  width: 100%;
+  height: 29px;
+  right:30px;
+  text-align: right;
+  top: 710px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 29px;
+  color: #080808;
+}
+.ftextt{
+  position: absolute;
+  width: 100%;
+  height: 29px;
+  left: 30px;
+  top: 760px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 25px;
+  line-height: 29px;
+  color: #080808;
+}
+#textare{
+  position: absolute;
+  box-sizing: border-box;
+  width: 600px;
+  height: 250px;
+  left: 30px;
+  top: 790px;
+  border: 1px solid #0e0d0d;
+  border-radius: 3px;
+}
+.submitt{
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  /* left: 50px; */
+  top: 1100px;
+  right:30px;
+  align-items: right;
+  background: #1013e7;
+  border-radius: 0px;
+  color: white;
+}
