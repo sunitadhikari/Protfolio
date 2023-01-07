@@ -204,9 +204,9 @@ nav ul {
 }
 .work-form{
   position: absolute;
-  width: 500px;
+  width: 100%;
   height: 58px;
-  left: 75px;
+  /* left: 75px; */
   top: 23px;
   font-family: 'Vollkorn';
   font-style: normal;
