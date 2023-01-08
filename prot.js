@@ -38,13 +38,30 @@
 //     }
 //   });
 
+// function scrollToSection(event) {
+//     event.preventDefault();
+//     const section = document.querySelector(event.target.getAttribute('href'));
+//     section.scrollIntoView({ behavior: 'smooth' });
+//   }
+  
+//   const links = document.querySelectorAll('a');
+//   links.forEach(link => {
+//     link.addEventListener('click', scrollToSection);
+//   });
+
+
 function scrollToSection(event) {
     event.preventDefault();
-    const section = document.querySelector(event.target.getAttribute('href'));
-    section.scrollIntoView({ behavior: 'smooth' });
+    const sectionId = event.target.getAttribute('href').slice(1);
+    const section = document.getElementById(sectionId);
+    console.log(section);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    }
   }
-  
   const links = document.querySelectorAll('a');
   links.forEach(link => {
     link.addEventListener('click', scrollToSection);
   });
+  
+  
