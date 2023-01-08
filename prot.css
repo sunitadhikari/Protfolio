@@ -377,13 +377,12 @@ nav ul {
 }
 
 /* Responsive styles */
-@media (max-width: 800px) {
+@media (max-width: 50rem) {
   .photo-box {
     width: 50%;
   }
 }
-
-@media (max-width: 400px) {
+@media (max-width: 25rem) {
   .photo-box {
     width: 100%;
   }
