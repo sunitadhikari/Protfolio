@@ -138,40 +138,31 @@ nav ul {
   height: 110vh;
   background: rgb(172, 166, 166);
   background-origin: border-box;
-  border: 3px solid black;
 }
 .projp{
   position: absolute;
-  border: 1px solid black;
   width: 100%;
-  height: 5rem;
+  height: 3rem;
   font-family: Arial, sans-serif;
-  font-weight: 100;
-  font-size: 1.7rem;
+  font-weight: 300;
+  font-size: 3rem;
   line-height:8rem;
   color: #201e1e;
   word-spacing: 1rem;
   align-items: center;
   text-align: center;
-  /* top:3rem; */
 }
 .container {
   display: grid;
   grid-template-columns: repeat(3,1fr);
-  /* flex-wrap: wrap; */
   margin: 5rem;
-  gap: 5rem;
+  gap: 4rem;
   position: absolute;
   top:2rem;
-  border: 7px solid yellow ;
 }
 .photo-box {
   width: 100%;
   height: 25rem;
-  /* margin: 10rem; */
-  /* top:10rem; */
-  border: 5px solid green;
-  /* display: flex; */
 }
 .pn{
   top:10rem;
@@ -191,7 +182,7 @@ nav ul {
 .mainform{
   position: relative;
   width: 100%;
-  height: 85rem;
+  height: 78rem;
   background: linear-gradient( rgb(141, 94, 94), rgb(87, 69, 222));
   background-origin: border-box;
 }
@@ -301,7 +292,6 @@ height: 2.8rem;
 left: 1.9rem;
 font-weight: 450;
 font-size: 1.5rem;
-border: 0.1rem solid #0e0d0d;
 top:27.5rem;
 }
 .ftextt{
