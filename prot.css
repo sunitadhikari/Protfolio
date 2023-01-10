@@ -23,7 +23,7 @@ nav {
     align-items: center;
     width: 53rem;
     height: 4.3rem;
-    left: 56rem;
+    left: 40rem;
     top:4rem;
 }
 nav ul {
@@ -65,7 +65,7 @@ nav ul {
     color: #cbaeae;
     word-spacing: 1.8rem;
     left:5rem;
-    top:8rem;
+    top:10rem;
   }
   .newp{
     position: relative;
@@ -96,9 +96,9 @@ nav ul {
     position: absolute;
       border-radius: 50%;
       overflow: hidden;
-      height: 30rem;
+      height: 25rem;
       width:fit-content;
-      left: 87rem;
+      left: 75rem;
       top:5rem;
   }
   .parr{
