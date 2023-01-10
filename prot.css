@@ -96,16 +96,16 @@ nav ul {
     position: absolute;
       border-radius: 50%;
       overflow: hidden;
-      height: 25rem;
+      height: 23rem;
       width:fit-content;
-      left: 70rem;
-      top:5rem;
+      left: 73rem;
+      top:2.6rem;
   }
   .parr{
     position: relative;
     width: 100%;
     height: 50rem;
-    font-weight: 900;
+    font-weight: 800;
     font-style: italic ;
     font-size: 7rem;
     line-height:10rem;
@@ -126,10 +126,9 @@ nav ul {
     line-height:2.5rem;
     color: #f3eeee;
     word-spacing: 0.5rem;
-    text-align: center;
     top:25rem;
-    left:25rem;
     opacity: 0.8;
+    left:20rem;
   }
   
 .involvepro{
@@ -145,7 +144,7 @@ nav ul {
   height: 3rem;
   font-family: Arial, sans-serif;
   font-weight: 300;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height:8rem;
   color: #201e1e;
   word-spacing: 1rem;
@@ -204,7 +203,7 @@ top:3rem;
 position: relative;
 width: 47rem;
 height: 55rem;
-left: 33rem;
+left: 27rem;
 top: 17rem;
 background-color: #508cb9;
 align-items: center;
