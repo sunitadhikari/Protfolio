@@ -327,3 +327,32 @@ background: #1013e7;
 border-radius: 0;
 color: white;
 }
+footer {
+  background-color: rgb(84, 80, 80);
+  color: #fff;
+  padding: 1em 0;
+  height: 13rem;
+  position: relative;
+}
+.copyright{
+  position: absolute;
+  top:10rem;
+  left:45rem;
+  font-size:1.3rem;
+  font-weight: 500;
+}
+.facebook i, .instagram i {
+  position: absolute;
+  left:10rem;
+  font-size: 50px;
+  color: rgb(19, 25, 183);
+  margin-right: 10px;
+}
+
+.facebook:hover i, .instagram:hover i{
+  color: rgb(58, 193, 37);
+}
+
+
+
+
