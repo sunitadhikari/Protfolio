@@ -96,10 +96,10 @@ nav ul {
     position: absolute;
       border-radius: 50%;
       overflow: hidden;
-      height: 23rem;
+      height: 20rem;
       width:fit-content;
-      left: 73rem;
-      top:2.6rem;
+      left:85rem;
+      top:5rem;
   }
   .parr{
     position: relative;
