@@ -328,8 +328,8 @@ border-radius: 0;
 color: white;
 }
 footer {
-  background-color: rgb(84, 80, 80);
-  color: #fff;
+  background-color: rgb(250, 245, 245);
+  color: rgb(8, 8, 8);
   padding: 1em 0;
   height: 13rem;
   position: relative;
@@ -337,20 +337,42 @@ footer {
 .copyright{
   position: absolute;
   top:10rem;
-  left:45rem;
-  font-size:1.3rem;
-  font-weight: 500;
+  left:35rem;
+  font-size:2rem;
+  font-weight: 600;
 }
-.facebook i, .instagram i {
+.facebook i  {
   position: absolute;
-  left:10rem;
-  font-size: 50px;
-  color: rgb(19, 25, 183);
-  margin-right: 10px;
+  left:39rem;
+  font-size: 3rem;
+  color: rgb(12, 12, 13);
 }
-
+.instagram i {
+  position: absolute;
+  left:43rem;
+  font-size: 3rem;
+  color: rgb(9, 9, 9);
+}
+.gmail i {
+  position: absolute;
+  left:47rem;
+  font-size: 3rem;
+  color: rgb(10, 10, 11);
+}
+.github i {
+  position: absolute;
+  left:51rem;
+  font-size: 3rem;
+  color: rgb(7, 7, 7);
+}
+.linkedin i {
+  position: absolute;
+  left:55rem;
+  font-size: 3rem;
+  color: rgb(11, 11, 11);
+}
 .facebook:hover i, .instagram:hover i{
-  color: rgb(58, 193, 37);
+  color: rgb(25, 74, 18);
 }
 
 
