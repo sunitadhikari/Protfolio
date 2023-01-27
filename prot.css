@@ -328,7 +328,7 @@ border-radius: 0;
 color: white;
 }
 footer {
-  background-color: rgb(216, 197, 197);
+  background-color: rgb(7, 7, 7);
   color: rgb(8, 8, 8);
   padding: 1em 0;
   height: 13rem;
@@ -345,7 +345,7 @@ footer {
   position: absolute;
   left:39rem;
   font-size: 3rem;
-  color: rgb(12, 12, 13);
+  color: rgb(235, 235, 253);
 }
 .instagram i {
   position: absolute;
@@ -372,9 +372,5 @@ footer {
   color: rgb(11, 11, 11);
 }
 .facebook:hover i, .instagram:hover i, .gmail:hover i, .github:hover i, .linkedin:hover i {
-  color: rgb(233, 9, 91);
+  color: rgb(218, 20, 93);
 }
-
-
-
-
