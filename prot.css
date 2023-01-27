@@ -369,7 +369,7 @@ footer {
   position: absolute;
   left:55rem;
   font-size: 3rem;
-  color: rgb(12, 12, 12);
+  color: rgb(10, 9, 9);
 }
 .facebook:hover i, .instagram:hover i, .gmail:hover i, .github:hover i, .linkedin:hover i {
   color: rgb(218, 20, 93);
