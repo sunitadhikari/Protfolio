@@ -375,7 +375,8 @@ footer {
   color: rgb(205, 17, 86);
 }
 @media only screen and (max-width: 600px) {
-  body {
-    font-size: 12px;
+  
+  .photo{
+    font-size: 20px;
   }
 }
