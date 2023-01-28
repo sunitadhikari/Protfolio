@@ -374,9 +374,12 @@ footer {
 .facebook:hover i, .instagram:hover i, .gmail:hover i, .github:hover i, .linkedin:hover i {
   color: rgb(205, 17, 86);
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width:50rem ) {
   
   .photo{
     font-size: 20px;
+  }
+  ul{
+     font-size:10px;
   }
 }
