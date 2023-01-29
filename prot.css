@@ -418,8 +418,8 @@ footer {
   color: rgb(205, 17, 86);
 }
 
-@media only screen and (max-width:300rem) {
-
+@media only screen and (min-width:300px) {
+  
   .photo {
     font-size: 20px;
   }
